@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-sidebar-navigation/static/css/main.e6c13ad2.css",
+    "main.js": "/react-sidebar-navigation/static/js/main.73db556b.js",
+    "static/js/787.c653be65.chunk.js": "/react-sidebar-navigation/static/js/787.c653be65.chunk.js",
+    "index.html": "/react-sidebar-navigation/index.html",
+    "main.e6c13ad2.css.map": "/react-sidebar-navigation/static/css/main.e6c13ad2.css.map",
+    "main.73db556b.js.map": "/react-sidebar-navigation/static/js/main.73db556b.js.map",
+    "787.c653be65.chunk.js.map": "/react-sidebar-navigation/static/js/787.c653be65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.73db556b.js"
+  ]
+}
